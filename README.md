@@ -1,5 +1,5 @@
 <div align="center">
-  <h1><code>TODO Add project name</code></h1>
+  <h1><code>ba-template</code></h1>
   <strong>A <a href="https://bytecodealliance.org/">Bytecode Alliance</a> project</strong>
   <p>
     <a href="https://github.com/bytecodealliance/ba-template/actions?query=workflow%3Awrpc"><img src="https://github.com/bytecodealliance/ba-template/actions/workflows/ci.yml/badge.svg" alt="build status" /></a>
