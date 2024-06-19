@@ -14,6 +14,10 @@
 
 Starter template for Bytecode Alliance repositories.
 
+## Questions?
+
+Ask over in the Bytecode Alliance <a href="https://bytecodealliance.zulipchat.com">Zulip</a>.
+
 ## Contributing
 
 See [CONTRIBUTING.md](./CONTRIBUTING.md) for more information about contributing
